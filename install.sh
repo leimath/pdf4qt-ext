@@ -33,7 +33,7 @@ else
 	if [[ -f pdf4qt.appimage ]]; then
 		prompt "Skipping download, file found in /tmp"
 	else 
-		wget -O $whatdoiname $URL || curl -o $URL $whatdoiname 
+		wget -O $whatdoiname $URL || curl -o $whatdoiname $URL
 		prompt "Download Finished"
 	fi
 	prompt "Extracting"
