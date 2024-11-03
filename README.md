@@ -3,7 +3,7 @@
 > [!WARNING]
 > Not an installer! Just an extractor
 
-It is a handy script to extract the tool from https://github.com/JakubMelka ,[Pdf4Qt](https://github.com/JakubMelka/PDF4QT) appimage. It is a really cool pdf viewer/editor with a lot of good features.
+It is a handy script to extract the tool from @JakubMelka ,[Pdf4Qt](https://github.com/JakubMelka/PDF4QT) appimage. It is a really cool pdf viewer/editor with a lot of good features.
 
 Rationale:
 
